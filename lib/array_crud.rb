@@ -3,12 +3,13 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dogs_array [cerberus, luna, aries, buzz]
+  dogs_array ["cerberus", "luna", "aries", "buzz"]
   
 end
 
 def add_element_to_end_of_array(array, element)
-  dogs_array [cerberus, ]
+  dogs_array ["cerberus", "luna", "aires", "buzz" ]
+  
   
 end
 
