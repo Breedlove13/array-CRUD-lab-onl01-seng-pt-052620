@@ -16,33 +16,34 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
   dogs_array.unshift ('pluto')
   
   end
 end
 
 def remove_element_from_end_of_array(array)
-  dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
   buzz_dog = dogs_array.pop
   end
 end
 
 def remove_element_from_start_of_array(array)
-  dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
   cerberus-dog = dogs_array.shift
   end
 end
 
 def retrieve_element_from_index(array, index_number)
-  dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
+  
   
 end
 
 def retrieve_first_element_from_array(array)
-  dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
 end
 
 def retrieve_last_element_from_array(array)
-  dogs_array = [ "cernerus", "lune" , "aries", "buzz"] 
+  dogs_array = [ "cernerus", "luna" , "aries", "buzz"] 
 end
