@@ -29,7 +29,7 @@ end
 
 def remove_element_from_start_of_array(array)
   dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
-  cerberus-dog = dogs_array.shift
+  cerberus_dog = dogs_array.shift
   
   end
 end
