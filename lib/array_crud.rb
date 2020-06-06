@@ -36,6 +36,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  
 end
 
 def retrieve_first_element_from_array(array)
