@@ -36,13 +36,13 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
+  dogs_array = [ "wow", "luna" , "aries", "buzz"] 
   dogs_array [0]
 
 end
 
 def retrieve_last_element_from_array(array)
-  dogs_array = [ "cernerus", "luna" , "aries", "arrays"] 
+  dogs_array = [ "cernerus", "luna" , "aries", "arrays!"] 
   dogs_array [-1]
   
 end
