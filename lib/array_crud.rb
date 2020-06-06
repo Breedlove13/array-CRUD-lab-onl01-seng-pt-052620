@@ -31,13 +31,15 @@ end
 def remove_element_from_start_of_array(array)
   dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
   cerberus-dog = dogs_array.shift
+  
   end
 end
 
 def retrieve_element_from_index(array, index_number)
   dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
+  dogs_array [2]
   
-  
+ end
 end
 
 def retrieve_first_element_from_array(array)
