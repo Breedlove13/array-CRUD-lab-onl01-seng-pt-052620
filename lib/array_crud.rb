@@ -44,6 +44,7 @@ end
 
 def retrieve_first_element_from_array(array)
   dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
+  dogs_arreay [0]
 end
 
 def retrieve_last_element_from_array(array)
