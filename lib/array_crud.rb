@@ -1,4 +1,5 @@
-def dogs_array []
+def 
+  dogs_array []
   
 end
 
