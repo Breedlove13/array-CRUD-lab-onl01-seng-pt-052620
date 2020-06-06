@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dogs_array
+  dogs_array [cerberus, luna, aries, buzz]
   
 end
 
