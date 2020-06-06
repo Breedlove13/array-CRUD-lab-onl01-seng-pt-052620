@@ -30,6 +30,7 @@ end
 
 def remove_element_from_start_of_array(array)
   dogs_array = [ "cerberus", "lune" , "aries", "buzz"] 
+  
 end
 
 def retrieve_element_from_index(array, index_number)
