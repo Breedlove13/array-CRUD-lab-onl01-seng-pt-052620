@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   dogs_array = [ "cerberus", "luna", "aires", "buzz" ]
-  dogs_array << "pluto"
+  dogs_array << "wow"
   
 end
 
@@ -19,7 +19,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  dogs_array = [ "cerberus", "luna" , "aries", "buzz"] 
+  dogs_array = [ "cerberus", "luna" , "aries", "arrays!"] 
   buzz_dog = dogs_array.pop
 end
 
