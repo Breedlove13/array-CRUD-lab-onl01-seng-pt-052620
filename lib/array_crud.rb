@@ -4,7 +4,6 @@ end
 
 def create_an_array
   dogs_array = [ "cerberus", "luna", "aries", "buzz" ]
-  
 end
 
 def add_element_to_end_of_array(array, element)
@@ -50,5 +49,6 @@ end
 
 def retrieve_last_element_from_array(array)
   dogs_array = [ "cernerus", "luna" , "aries", "buzz"] 
-  dogs_array []
+  dogs_array [-1]
+ end
 end
