@@ -3,6 +3,7 @@ def dogs_array
 end
 
 def create_an_array
+  dogs_array
   
 end
 
