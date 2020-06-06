@@ -1,4 +1,4 @@
-def create_an_empty_array
+def dogs_array []
   
 end
 
