@@ -3,19 +3,19 @@ def create_an_empty_array
 end
 
 def create_an_array
-  dogs_array ["cerberus", "luna", "aries", "buzz"]
+  dogs_array = ["cerberus", "luna", "aries", "buzz"]
   
 end
 
 def add_element_to_end_of_array(array, element)
-  dogs_array ["cerberus", "luna", "aires", "buzz" ]
+  dogs_array = ["cerberus", "luna", "aires", "buzz" ]
   
   dogs_array << "pluot"
   
 end
 
 def add_element_to_start_of_array(array, element)
-  dogs_array ["cernerus", "lune" , "aries", "buzz"]
+  dogs_array = ["cernerus", "lune" , "aries", "buzz"]
   dogs_array.unshift ('pluto')
   
 end
